@@ -117,6 +117,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MyBotzz/RashmikaBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=moviesfiles&env[COLLECTION_NAME]=Telegram_files&run_command=python%20bot.py&branch=master&name=RashmikaBot)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MyBotzz/RashmikaBot)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=Sm9lbGtiL0RRLXRoZS1maWxlLWRvbm9yIG1hc3Rlcg)
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
