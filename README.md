@@ -5,7 +5,7 @@
   <b>Rashmika Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Rashmika Bot!;Created+by+ɛӼ_ռöֆ__⁷⁷⁷✘⁴!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+RashmikaBot!;Created+by+ɛӼ_ռöֆ__⁷⁷⁷✘⁴!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/MyBotzz/RashmikaBot?style=flat-square&color=yellow)](https://github.com/MyBotzz/RashmikaBot/stargazers)
