@@ -774,6 +774,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  ],[
                     InlineKeyboardButton('♻️𝐇𝐞𝐥𝐩♻️', callback_data='help'),
                     InlineKeyboardButton('♻️𝐀𝐛𝐨𝐮𝐭♻️', callback_data='about')
+                  ],[
+                    InlineKeyboardButton('🌻 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 🌻', url="https://github.com/MyBotzz/RashmikaBot") 
                    ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
