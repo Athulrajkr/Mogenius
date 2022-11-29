@@ -115,7 +115,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MyBotzz/RashmikaBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=moviesfiles&env[COLLECTION_NAME]=Telegram_files&run_command=python%20bot.py&branch=master&name=RashmikaBot)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MyBotzz/RashmikaBot) 
+[![Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/MyBotzz/RashmikaBot) 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
