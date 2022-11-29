@@ -870,6 +870,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
+            InlineKeyboardButton('❣𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎❣', url="https://github.com/MyBotzz/RashmikaBot") 
+        ],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
