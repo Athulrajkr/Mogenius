@@ -17,6 +17,8 @@
 [![Sparkline](https://stars.medv.io/MyBotzz/RashmikaBot.svg)](https://stars.medv.io/MyBotzz/RashmikaBot)
 
 ### Deploy
+# You can deploy this bot on MOGENIUS,HEROKU,RAILWAY & KOYEB,VPS
+
 [![Deploy on Mogenius](https://telegra.ph/file/d824b54bf37a407b10fb4.jpg)](https://studio.mogenius.com/studio/cloud-space/add-cloud-space) 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
