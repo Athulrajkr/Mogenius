@@ -111,7 +111,8 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/MyBotzz/RashmikaBot/blob/master/info.py) for more optional variables
-#Deploy
+###Deploy
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TKLYA7)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MyBotzz/RashmikaBot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=moviesfiles&env[COLLECTION_NAME]=Telegram_files&run_command=python%20bot.py&branch=master&name=RashmikaBot)
 </p>
