@@ -780,7 +780,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediaVideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -802,7 +802,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.ALL_FILTERS.format(query.from_user.mention),
@@ -817,7 +817,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -842,7 +842,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -860,7 +860,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediaVideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -876,7 +876,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.SOURCE_TXT,
@@ -892,7 +892,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.MANUELFILTER_TXT,
@@ -906,7 +906,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -921,7 +921,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -936,7 +936,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -952,7 +952,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -968,7 +968,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -984,7 +984,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1000,7 +1000,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -1024,7 +1024,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediavideo(random.choice(PICS))
+            InputMediaPhoto(random.choice(PICS))
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -1047,7 +1047,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
-                InputMediavideo(random.choice(PICS))
+                InputMediaPhoto(random.choice(PICS))
             )
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
@@ -1264,7 +1264,7 @@ async def auto_filter(client, msg, spoll=False):
     else:
         cap = f"""┏ 🎪 ᴛɪᴛɪʟᴇ : {search}
 ┣ 🤴𝙰𝚂𝙺𝙴𝙳 𝙱𝚈 : {message.from_user.mention}
-┣ ⚡𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : <a href='https://t.me/{temp.U_NAME}'>𝐑𝐚𝐬𝐡𝐮</a>
+┣ ⚡𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : https://t.me/{temp.U_NAME}
 ┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 10 ᴍɪɴᴜᴛᴇꜱ """
     if imdb and imdb.get('poster'):
         try:
