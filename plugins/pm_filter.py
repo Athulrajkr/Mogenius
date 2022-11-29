@@ -838,6 +838,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('𝐒𝐭𝐚𝐭𝐮𝐬', callback_data='stats')
+         ],[
+            InlineKeyboardButton('🌻 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 🌻', url="https://github.com/MyBotzz/RashmikaBot")
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -858,6 +860,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('𝐂𝐥𝐨𝐬𝐞', callback_data='close_data')
+        ],[
+            InlineKeyboardButton('🌻 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 🌻', url="https://github.com/MyBotzz/RashmikaBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
