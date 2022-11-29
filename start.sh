@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/MyBotzz/DQ-the-file-donor.git /DQ-The-File-Donor
+  git clone https://github.com/MyBotzz/RashmikaBot.git /RashmikaBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /DQ-The-File-Donor
+  git clone $UPSTREAM_REPO /RashmikaBot
 fi
-cd /DQ-The-File-Donor
+cd /RashmikaBot
 pip3 install -U -r requirements.txt
-echo "Starting DQ-The-File-Donor...."
+echo "Starting RashmikaBot...."
 python3 bot.py
