@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/9f1781faeab4a4a775722.jpg" alt="Rashmika Logo">
 </p>
 <h1 align="center">
-  <b>AUTOFILTER-RASHMIKABOT</b>
+  <b>AUTOFILTER RASHMIKABOT</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+RashmikaBot!;Created+by+ɛӼ_ռöֆ__⁷⁷⁷✘⁴!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
