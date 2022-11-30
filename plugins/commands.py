@@ -149,7 +149,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                           [
                            [
-                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia'),
+                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia"),
                             InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MM_Archives")
                           ]
                         ]
@@ -166,7 +166,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                           [
                            [
-                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia'),
+                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia"),
                             InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MM_Archives")
                           ]
                         ]
@@ -235,7 +235,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                       [
                            [
-                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/MM_Archives'),
+                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/MM_Archives"),
                             InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MM_Archives")
                           ]
                         ]
@@ -276,7 +276,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
                        [
                            [
-                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia'),
+                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia"),
                             InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MM_Archives")
                           ]
                         ]
