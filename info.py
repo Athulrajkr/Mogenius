@@ -46,8 +46,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_supported')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+ip38nA3Tm0A3MGRl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MM_Archives')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movie_Meadia')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
