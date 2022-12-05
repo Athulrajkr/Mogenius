@@ -183,11 +183,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+♻️𝙅𝙊𝙄𝙉 :- https://t.me/MM_Rockers
 ╰─────── • ◆ • ───────╯
 
-=========== • ✠ • ===========
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @bots_supported
+♻️ 𝙅𝙊𝙄𝙉 :- https://t.me/MM_Archives 
+
+♻️ 𝙅𝙊𝙄𝙉 :-https://t.me/joinchat/Cl6Byc2RvPlkODA1
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
