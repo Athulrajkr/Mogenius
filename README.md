@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/9f1781faeab4a4a775722.jpg" alt="Rashmika Logo">
+  <img src="https://te.legra.ph/file/b211d39d4e5bd41cbb311.jpg" alt="Rashmika Logo">
 </p>
 <h1 align="center">
   <b>AUTOFILTER RASHMIKABOT</b>
